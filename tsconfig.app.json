@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "paths": { "@src/*": ["${configDir}/src/*"] },
+        "types": ["node"]
+    },
+    "exclude": ["coverage/", "dist/", "html/", "node_modules/", "**/*.test.ts"],
+    "extends": "./tsconfig.base.json",
+    "include": ["src/**/*.ts"]
+}

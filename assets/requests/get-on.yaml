@@ -1,0 +1,21 @@
+auth:
+    config: {}
+    type: none
+id: req_1787502850624_mtirm6p
+method: GET
+name: GET on /
+params:
+    headers:
+        - enabled: true
+          key: Content-Type
+          value: application/json
+path: /
+protocol: http
+resonanceFormat: 2
+seq: 10
+spec:
+    parameters:
+        header: {}
+        path: {}
+        query: {}
+url: http://localhost:3000/

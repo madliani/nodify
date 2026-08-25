@@ -28,12 +28,16 @@ This is a Node.js starter kit.
 
 <div align="center">
     <figure>
-        <img alt="Screenshot of Rio Terminal" src="./assets/images/rio-screenshot.png" title="Screenshot of Rio Terminal">
-        <figcaption>Screenshot of <a href="https://rioterm.com/">Rio Terminal</a></figcaption>
+        <img alt="Screenshot of the app running in Rio Terminal" src="./assets/images/rio-screenshot.png" title="Screenshot of the app running in Rio Terminal">
+        <figcaption>Screenshot of the app running in <a href="https://rioterm.com/">Rio Terminal</a></figcaption>
     </figure>
     <figure>
-        <img alt="Screenshot of Resonance" src="./assets/images/resonance-screenshot.png" title="Screenshot of Resonance">
-        <figcaption>Screenshot of <a href="https://github.com/matpdev/resonance/">Resonance</a></figcaption>
+        <img alt="Screenshot showing an example request to the Index route in Resonance HTTP Client" src="./assets/images/index-screenshot.png" title="Screenshot showing an example request to the Index route in Resonance HTTP Client">
+        <figcaption>Screenshot showing an example request to the Index route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
+    </figure>
+    <figure>
+        <img alt="Screenshot showing an example request to the Health route in Resonance HTTP Client" src="./assets/images/health-screenshot.png" title="Screenshot showing an example request to the Health route in Resonance HTTP Client">
+        <figcaption>Screenshot showing an example request to the Health route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
     </figure>
 </div>
 

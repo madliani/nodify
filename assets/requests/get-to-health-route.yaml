@@ -1,0 +1,21 @@
+resonanceFormat: 2
+id: req_1787675456761_j5la3fo
+name: GET to Health route
+seq: 20
+protocol: http
+method: GET
+path: /health
+url: http://localhost:3000/health
+auth:
+  type: inherit
+  config: {}
+params:
+  headers:
+  - key: Content-Type
+    value: application/json
+    enabled: true
+spec:
+  parameters:
+    query: {}
+    header: {}
+    path: {}

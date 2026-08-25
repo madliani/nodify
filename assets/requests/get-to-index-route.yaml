@@ -1,0 +1,21 @@
+resonanceFormat: 2
+id: req_1787502850624_mtirm6p
+name: GET to Index route
+seq: 10
+protocol: http
+method: GET
+path: /
+url: http://localhost:3000/
+auth:
+  type: none
+  config: {}
+params:
+  headers:
+  - key: Content-Type
+    value: application/json
+    enabled: true
+spec:
+  parameters:
+    header: {}
+    path: {}
+    query: {}

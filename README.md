@@ -28,16 +28,16 @@ This is a Node.js starter kit.
 
 <div align="center">
     <figure>
-        <img alt="Screenshot of the app running in Rio Terminal" src="./assets/images/rio-screenshot.png" title="Screenshot of the app running in Rio Terminal">
-        <figcaption>Screenshot of the app running in <a href="https://rioterm.com/">Rio Terminal</a></figcaption>
+        <img alt="Screenshot of the app in action" src="./assets/images/rio-screenshot.png" title="Screenshot of the app in action">
+        <figcaption>The app running in <a href="https://rioterm.com/">Rio Terminal</a></figcaption>
     </figure>
     <figure>
-        <img alt="Screenshot showing an example request to the Index route in Resonance HTTP Client" src="./assets/images/index-screenshot.png" title="Screenshot showing an example request to the Index route in Resonance HTTP Client">
-        <figcaption>Screenshot showing an example request to the Index route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
+        <img alt="Example request to the Index route" src="./assets/images/index-screenshot.png" title="Example request to the Index route">
+        <figcaption>An example request to the Index route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
     </figure>
     <figure>
-        <img alt="Screenshot showing an example request to the Health route in Resonance HTTP Client" src="./assets/images/health-screenshot.png" title="Screenshot showing an example request to the Health route in Resonance HTTP Client">
-        <figcaption>Screenshot showing an example request to the Health route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
+        <img alt="Example request to the Health route" src="./assets/images/health-screenshot.png" title="Example request to the Health route">
+        <figcaption>An example request to the Health route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
     </figure>
 </div>
 

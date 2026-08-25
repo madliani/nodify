@@ -29,15 +29,15 @@ This is a Node.js starter kit.
 <div align="center">
     <figure>
         <img alt="Screenshot of the app in action" src="./assets/images/rio-screenshot.png" title="Screenshot of the app in action">
-        <figcaption>The app running in <a href="https://rioterm.com/">Rio Terminal</a></figcaption>
+        <figcaption>The app running in <a href="https://rioterm.com/">Rio Terminal</a>.</figcaption>
     </figure>
     <figure>
         <img alt="Example request to the Index route" src="./assets/images/index-screenshot.png" title="Example request to the Index route">
-        <figcaption>An example request to the Index route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
+        <figcaption>An example request to the Index route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a>.</figcaption>
     </figure>
     <figure>
         <img alt="Example request to the Health route" src="./assets/images/health-screenshot.png" title="Example request to the Health route">
-        <figcaption>An example request to the Health route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
+        <figcaption>An example request to the Health route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a>.</figcaption>
     </figure>
 </div>
 

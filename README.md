@@ -28,7 +28,7 @@ This is a Node.js starter kit.
 
 <div align="center">
     <figure>
-        <img alt="Screenshot of the app in action" src="./assets/images/rio-screenshot.png" title="Screenshot of the app in action">
+        <img alt="The app in action" src="./assets/images/rio-screenshot.png" title="The app in action">
         <figcaption>The app running in <a href="https://rioterm.com/">Rio Terminal</a>.</figcaption>
     </figure>
     <figure>

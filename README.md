@@ -9,7 +9,7 @@
         title="Nodify logo"
         width="96px"
     />
-    <h3 align="center">Node.js Starter Kit</h3>
+    <h3 align="center">A Node.js starter kit</h3>
 </div>
 
 ## Tech Stack

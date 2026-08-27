@@ -43,11 +43,11 @@ This is a Node.js starter kit.
     </figure>
 </div>
 
-## Prerequisites
+## Requirements
 
-Before setting up the app, make sure you have:
+To ensure the app is installed correctly and works properly, make sure you have:
 
-1. `Node.js`: a runtime environment for running the app.
+1. `Node.js`: a runtime environment for running the bot.
 2. `pnpm`: a package manager for installing dependencies.
 
 ## Installation

@@ -34,11 +34,11 @@ This is a Node.js starter kit.
         <figcaption>The app running in <a href="https://rioterm.com/">Rio Terminal</a>.</figcaption>
     </figure>
     <figure>
-        <img alt="Example request to the Index route" src="./assets/images/index-screenshot.png" title="Example request to the Index route">
+        <img alt="An example request to the Index route" src="./assets/images/index-screenshot.png" title="An example request to the Index route">
         <figcaption>An example request to the Index route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a>.</figcaption>
     </figure>
     <figure>
-        <img alt="Example request to the Health route" src="./assets/images/health-screenshot.png" title="Example request to the Health route">
+        <img alt="An example request to the Health route" src="./assets/images/health-screenshot.png" title="An example request to the Health route">
         <figcaption>An example request to the Health route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a>.</figcaption>
     </figure>
 </div>

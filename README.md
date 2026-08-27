@@ -31,15 +31,15 @@ This is a Node.js starter kit.
 <div align="center">
     <figure>
         <img alt="The app in action" src="./assets/images/rio-screenshot.png" title="The app in action">
-        <figcaption>The app running in <a href="https://rioterm.com/">Rio Terminal</a>.</figcaption>
+        <figcaption>The app running in <a href="https://rioterm.com/">Rio Terminal</a></figcaption>
     </figure>
     <figure>
         <img alt="An example request to the Index route" src="./assets/images/index-screenshot.png" title="An example request to the Index route">
-        <figcaption>An example request to the Index route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a>.</figcaption>
+        <figcaption>An example request to the Index route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
     </figure>
     <figure>
         <img alt="An example request to the Health route" src="./assets/images/health-screenshot.png" title="An example request to the Health route">
-        <figcaption>An example request to the Health route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a>.</figcaption>
+        <figcaption>An example request to the Health route in <a href="https://github.com/matpdev/resonance/">Resonance HTTP Client</a></figcaption>
     </figure>
 </div>
 
@@ -47,8 +47,8 @@ This is a Node.js starter kit.
 
 To ensure the app is installed correctly and works properly, make sure you have:
 
-1. `Node.js`: a runtime environment for running the bot.
-2. `pnpm`: a package manager for installing dependencies.
+1. `Node.js`: a runtime environment for running the bot
+2. `pnpm`: a package manager for installing dependencies
 
 ## Installation
 
@@ -96,47 +96,46 @@ Follow these steps to set up the app:
 
 ## Project Structure
 
-- `assets/`: a directory containing assets for the `README.md` file.
-    - `assets/icons/`: a directory containing icons for the `README.md` file.
-        - `assets/icons/nodejs.svg`: a `Node.js` icon.
-    - `assets/images/`: a directory containing images for the `README.md` file.
-- `src/`: a directory containing source files of the project.
-    - `src/app/`: a directory containing source files of the app.
-        - `src/app/tests/`: a directory containing tests for the app.
-    - `src/logger/`: a directory containing source files of the logger.
-    - `src/router/`: a directory containing source files of the router.
+- `assets/`: a directory containing assets for the `README.md` file
+    - `assets/icons/`: a directory containing icons for the `README.md` file
+        - `assets/icons/nodejs.svg`: a `Node.js` icon
+    - `assets/images/`: a directory containing images for the `README.md` file
+- `src/`: a directory containing source files of the project
+    - `src/app/`: a directory containing source files of the app
+        - `src/app/tests/`: a directory containing tests for the app
+    - `src/logger/`: a directory containing source files of the logger
+    - `src/router/`: a directory containing source files of the router
     - `src/types/`: a directory containing type declarations for the entry point
-      of the `Node.js` program.
-    - `src/main.ts`: a file containing entry point of the program.
-- `types/`: a directory containing type declarations for the configuration
-  files.
-    - `types/vitest.ts`: a type declaration for the `Vitest` configuration file.
-- `.env`: an environment variables file.
-- `.gitattributes`: a `Git` attributes file.
-- `.gitignore`: a `Git` ignore file.
-- `.prettierignore`: a `Prettier` ignore file.
-- `AUTHORS.txt`: an `AUTHORS` file.
-- `CHANGELOG.md`: a `CHANGELOG.md` file.
-- `CONTRIBUTING.md`: a `CONTRIBUTING.md` file.
-- `cspell.config.js`: a JavaScript-based `cSpell` configuration file.
-- `eslint.config.js`: a JavaScript-based `ESLint` configuration file.
-- `LICENSE.txt`: a license file.
-- `package.json`: a `package.json` file.
-- `pnpm-lock.yaml`: a `pnpm` lockfile.
-- `pnpm-workspace.yaml`: a `pnpm` Workspace file.
-- `prettier.config.js`: a JavaScript-based `Prettier` configuration file.
-- `README.md`: a `README` file.
-- `tsconfig.app.json`: a `TypeScript` configuration file for the app.
-- `tsconfig.json`: a base `TypeScript` configuration file.
-- `tsconfig.json`: a main `TypeScript` configuration file.
-- `tsconfig.test.json`: a `TypeScript` configuration file for the tests.
-- `tsdown.config.js`: a JavaScript-based `tsdown` configuration file.
-- `vitest.config.js`: a JavaScript-based `Vitest` configuration file.
+      of the `Node.js` program
+    - `src/main.ts`: a file containing entry point of the program
+- `types/`: a directory containing type declarations for the configuration files
+    - `types/vitest.ts`: a type declaration for the `Vitest` configuration file
+- `.env`: an environment variables file
+- `.gitattributes`: a `Git` attributes file
+- `.gitignore`: a `Git` ignore file
+- `.prettierignore`: a `Prettier` ignore file
+- `AUTHORS.txt`: an `AUTHORS` file
+- `CHANGELOG.md`: a `CHANGELOG.md` file
+- `CONTRIBUTING.md`: a `CONTRIBUTING.md` file
+- `cspell.config.js`: a JavaScript-based `cSpell` configuration file
+- `eslint.config.js`: a JavaScript-based `ESLint` configuration file
+- `LICENSE.txt`: a license file
+- `package.json`: a `package.json` file
+- `pnpm-lock.yaml`: a `pnpm` lockfile
+- `pnpm-workspace.yaml`: a `pnpm` Workspace file
+- `prettier.config.js`: a JavaScript-based `Prettier` configuration file
+- `README.md`: a `README` file
+- `tsconfig.app.json`: a `TypeScript` configuration file for the app
+- `tsconfig.json`: a base `TypeScript` configuration file
+- `tsconfig.json`: a main `TypeScript` configuration file
+- `tsconfig.test.json`: a `TypeScript` configuration file for the tests
+- `tsdown.config.js`: a JavaScript-based `tsdown` configuration file
+- `vitest.config.js`: a JavaScript-based `Vitest` configuration file
 
 ## Branches
 
-- `stable`: a stable branch for production builds.
-- `unstable`: an unstable branch for development and testing.
+- `stable`: a stable branch for production builds
+- `unstable`: an unstable branch for development and testing
 
 ## FAQs
 
@@ -171,4 +170,4 @@ These dependencies are necessary for other dependencies to work correctly.
 - The [Node.js](./assets/icons/nodejs.svg) icon, from
   [Icon-Icons.com](https://icon-icons.com/), created by
   [Roberto Huertas](https://icon-icons.com/authors/815-roberto-huertas/) and
-  licensed under the `CC BY 4.0` license.
+  licensed under the `CC BY 4.0` license

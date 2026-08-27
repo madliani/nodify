@@ -65,19 +65,28 @@ Follow these steps to set up the app:
     pnpm install
     ```
 
-3. Run tests:
+3. Set up development mode and the app port:
+
+    Create a `.env` file in the root directory, and add the following lines:
+
+    ```bash
+    NODE_ENV="development-or-production"
+    PORT=your-port
+    ```
+
+4. Run tests:
 
     ```bash
     pnpm test
     ```
 
-4. Build the app:
+5. Build the app:
 
     ```bash
     pnpm build:release
     ```
 
-5. Start the app:
+6. Start the app:
 
     ```bash
     pnpm start:release

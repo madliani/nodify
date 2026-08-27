@@ -110,6 +110,7 @@ Follow these steps to set up the app:
     - `src/main.ts`: a file containing entry point of the program.
 - `types/`: a directory containing type declarations for the configuration
   files.
+    - `types/vitest.ts`: a type declaration for the `Vitest` configuration file.
 - `.env`: an environment variables file.
 - `.gitattributes`: a `Git` attributes file.
 - `.gitignore`: a `Git` ignore file.

@@ -167,7 +167,7 @@ These dependencies are necessary for other dependencies to work correctly.
 
 ## Attributions
 
-- The **Node.js icon** (`./assets/icons/nodejs.svg`), from
+- The [Node.js](./assets/icons/nodejs.svg) icon, from
   [Icon-Icons.com](https://icon-icons.com/), created by
   [Roberto Huertas](https://icon-icons.com/authors/815-roberto-huertas/) and
   licensed under the `CC BY 4.0` license.

@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.6] - 2026-08-29
+
+### Added
+
+- The `Git` workflow
+
 ## [1.0.5] - 2026-08-29
 
 ### Fixed

@@ -1,5 +1,6 @@
 import { App } from "@src/app/app"
 import { RoutePath } from "@src/router/routes"
+import status from "statuses"
 import supertest from "supertest"
 import { describe, expect, test } from "vitest"
 
@@ -9,7 +10,7 @@ describe("GET to Index route", () => {
         const response = await supertest(app.run()).get(RoutePath.INDEX)
 
         expect(response.redirect).toEqual(true)
-        expect(response.status).toEqual(302)
+        expect(response.status).toEqual(status.code["found"])
         expect(response.headers["location"]).toEqual(RoutePath.HEALTH)
     })
 
@@ -26,7 +27,7 @@ describe("GET to Health route", () => {
         const app = new App("development", 3_000)
         const response = await supertest(app.run()).get(RoutePath.HEALTH)
 
-        expect(response.status).toEqual(200)
+        expect(response.status).toEqual(status.code["ok"])
         expect(response.body["status"]).toEqual("Ok")
     })
 })

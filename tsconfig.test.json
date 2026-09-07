@@ -3,7 +3,7 @@
         "paths": { "@src/*": ["${configDir}/src/*"] },
         "types": ["node"]
     },
-    "exclude": ["coverage/", "dist/", "html/", "node_modules/"],
+    "exclude": [".vitest", "coverage/", "dist/", "node_modules/"],
     "extends": "./tsconfig.base.json",
     "include": ["**/*.test.ts", "src/**/*.ts"]
 }

@@ -32,7 +32,7 @@ All notable changes to this project will be documented in this file.
 
 - The `README.md` file
 
-## Changed
+### Changed
 
 - Update dependencies
 
@@ -48,7 +48,7 @@ All notable changes to this project will be documented in this file.
 
 - The `README.md` file
 
-## Changed
+### Changed
 
 - Requests for Resonance HTTP Client
 

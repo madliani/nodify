@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.7] - 2026-09-07
+
+### Fixed
+
+- The `CHANGELOG.md` file
+- The `Git` workflow
+
+### Changed
+
+- Update dependencies
+
 ## [1.0.6] - 2026-08-29
 
 ### Added

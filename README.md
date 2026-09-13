@@ -98,22 +98,26 @@ Follow these steps to set up the app:
 
 - `assets/`: a directory containing assets for the `README.md` file
     - `assets/icons/`: a directory containing icons for the `README.md` file
-        - `assets/icons/nodejs.svg`: a `Node.js` icon
+        - `assets/icons/nodejs.svg`: the `Node.js` icon
     - `assets/images/`: a directory containing images for the `README.md` file
-- `src/`: a directory containing source files of the project
-    - `src/app/`: a directory containing source files of the app
-        - `src/app/tests/`: a directory containing tests for the app
+- `src/`: a directory containing source files of the `Node.js` app
+    - `src/app/`: a directory containing the main component of the app
+        - `src/app/tests/`: a directory containing tests for the main component
+          of the app
     - `src/logger/`: a directory containing source files of the logger
     - `src/router/`: a directory containing source files of the router
     - `src/types/`: a directory containing type declarations for the entry point
-      of the `Node.js` program
-    - `src/main.ts`: a file containing entry point of the program
+      of the app
+    - `src/main.ts`: a file containing the entry point of the app
 - `types/`: a directory containing type declarations for the configuration files
-    - `types/vitest.ts`: a type declaration for the `Vitest` configuration file
-- `.env`: an environment variables file
+    - `types/vitest.ts`: a file containing type declarations for the `Vitest`
+      configuration file
+- `.env`: an environment variables file (local)
 - `.gitattributes`: a `Git` attributes file
 - `.gitignore`: a `Git` ignore file
 - `.prettierignore`: a `Prettier` ignore file
+- `.tsbuildinfo`: a file of the `TypeScript` compiler for storing incremental
+  compilation information (local)
 - `AUTHORS.txt`: an `AUTHORS` file
 - `CHANGELOG.md`: a `CHANGELOG.md` file
 - `CONTRIBUTING.md`: a `CONTRIBUTING.md` file
@@ -122,7 +126,7 @@ Follow these steps to set up the app:
 - `LICENSE.txt`: a license file
 - `package.json`: a `package.json` file
 - `pnpm-lock.yaml`: a `pnpm` lockfile
-- `pnpm-workspace.yaml`: a `pnpm` Workspace file
+- `pnpm-workspace.yaml`: a `pnpm-workspace.yaml` file
 - `prettier.config.js`: a JavaScript-based `Prettier` configuration file
 - `README.md`: a `README` file
 - `tsconfig.app.json`: a `TypeScript` configuration file for the app
